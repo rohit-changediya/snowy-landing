@@ -3,7 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Injective Snowy</title>
+    <meta name="description" content="Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with SnowyOS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!">
+    <title>Snowy Token: A Whimsical Mobile Crypto Adventure on the Injective Network!</title>
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -15,7 +16,6 @@
     background-color: #000;
     background-image: url('https://ik.imagekit.io/sms76xtwup/bg.gif?updatedAt=1703141155534');
     background-size: cover;
-    background-repeat: no-repeat;
     background-position: center;
     font-family: 'Silkscreen', sans-serif;
     font-weight: 400;
@@ -25,23 +25,15 @@
     small {
         font-size: 0.8rem;
     }
-    .bg-black {
-      position: fixed;
-      width: 100%;
-      height: 100%;
-      background: #000;
-      opacity: 0.5;
-      z-index: -1;
-    }
     </style>
   </head>
   <body>
-    <div class="bg-black"></div>
+    <div class="bg-black vh-100 vw-100 position-fixed opacity-50 z-n1"></div>
     <div class="container text-white text-center py-5">
       <div class="row justify-content-center">
         <div class="col-md-12">
           <h1>Welcome to Injective Snowy</h1>
-          <h4>The biggest Injective Advanture Airdrop!</h4>
+          <h4>The biggest Injective Adventure Airdrop!</h4>
         </div>
         <div class="col-7 col-md-3 py-4">
           <img src="images/struppi.png" class="img-fluid">
@@ -50,7 +42,7 @@
           <a href="https://t.me/InjSnowy_bot" class="btn btn-light btn-lg mb-2">Airdrop Bot</a>
           <p class="mb-4">Join the Fun with Snowy Token on the Injective Network! 🚀❄️</p>
           <h4>Who We Are:</h4>
-          <p class="mb-4">Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Inspired by Tintin's intrepid and loyal companion, Snowy Token embodies the spirit of adventure and the joy of exploration in the crypto universe.</p>
+          <p class="mb-4">Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with SnowyOS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!</p>
           <p class="mb-4">🐾 Join us now and be part of the Snowy Token saga on the Injective Network! 🐾</p>
           <div class="row align-items-center justify-content-center mb-4">
             <div class="col-6 col-md-auto mb-3 mb-md-0">
