@@ -65,7 +65,7 @@
           <div class="row align-items-center justify-content-center mb-4">
             <div class="col-6 col-md-auto mb-3 mb-md-0">
               <div class="d-grid">
-                <a href="https://discord.gg/4rKDGfDh72" class="btn btn-outline-light"><i class="bi bi-discord"></i> Discord</a>
+                <a href="https://discord.com/invite/A59wdS5wSf" class="btn btn-outline-light"><i class="bi bi-discord"></i> Discord</a>
               </div>
             </div>
             <div class="col-6 col-md-auto mb-3 mb-md-0">
