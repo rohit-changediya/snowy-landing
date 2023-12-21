@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with SnowyOS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!">
+    <meta property="og:image" content="https://injsnowy.com/images/struppi.png">
     <title>Snowy Token: A Whimsical Mobile Crypto Adventure on the Injective Network!</title>
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
     <link rel="preconnect" href="https://fonts.googleapis.com">
