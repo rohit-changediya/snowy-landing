@@ -7,20 +7,20 @@
 <!-- Google / Search Engine Tags -->
 <meta itemprop="name" content="Snowy Token: A Whimsical Mobile Crypto Adventure on the Injective Network!">
 <meta itemprop="description" content="Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with SnowyOS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!">
-<meta itemprop="image" content="https://injsnowy.com/images/struppi.png">
+<meta itemprop="image" content="https://injsnowy.com/images/airdrop.png">
 
 <!-- Facebook Meta Tags -->
 <meta property="og:url" content="http://injsnowy.com">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Snowy Token: A Whimsical Mobile Crypto Adventure on the Injective Network!">
 <meta property="og:description" content="Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with SnowyOS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!">
-<meta property="og:image" content="https://injsnowy.com/images/struppi.png">
+<meta property="og:image" content="https://injsnowy.com/images/airdrop.png">
 
 <!-- Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Snowy Token: A Whimsical Mobile Crypto Adventure on the Injective Network!">
 <meta name="twitter:description" content="Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with SnowyOS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!">
-<meta name="twitter:image" content="https://injsnowy.com/images/struppi.png">
+<meta name="twitter:image" content="https://injsnowy.com/images/airdrop.png">
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
