@@ -4,24 +4,24 @@
     <title>Snowy Token: A Whimsical Mobile Crypto Adventure on the Injective Network!</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with SnowyOS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!">
+<meta name="description" content="Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with Snowy OS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!">
 
 <!-- Google / Search Engine Tags -->
 <meta itemprop="name" content="Snowy Token: A Whimsical Mobile Crypto Adventure on the Injective Network!">
-<meta itemprop="description" content="Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with SnowyOS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!">
+<meta itemprop="description" content="Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with Snowy OS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!">
 <meta itemprop="image" content="https://injsnowy.com/images/airdrop.png">
 
 <!-- Facebook Meta Tags -->
 <meta property="og:url" content="http://injsnowy.com">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Snowy Token: A Whimsical Mobile Crypto Adventure on the Injective Network!">
-<meta property="og:description" content="Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with SnowyOS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!">
+<meta property="og:description" content="Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with Snowy OS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!">
 <meta property="og:image" content="https://injsnowy.com/images/airdrop.png">
 
 <!-- Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Snowy Token: A Whimsical Mobile Crypto Adventure on the Injective Network!">
-<meta name="twitter:description" content="Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with SnowyOS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!">
+<meta name="twitter:description" content="Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with Snowy OS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!">
 <meta name="twitter:image" content="https://injsnowy.com/images/airdrop.png">
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -60,7 +60,7 @@
           <a href="https://t.me/InjSnowy_bot" class="btn btn-light btn-lg mb-2">Airdrop Bot</a>
           <p class="mb-4">Join the Fun with Snowy Token on the Injective Network! 🚀❄️</p>
           <h4>Who We Are:</h4>
-          <p class="mb-4">Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with SnowyOS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!</p>
+          <p class="mb-4">Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with Snowy OS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!</p>
           <p class="mb-4">🐾 Join us now and be part of the Snowy Token saga on the Injective Network! 🐾</p>
           <div class="row align-items-center justify-content-center mb-4">
             <div class="col-6 col-md-auto mb-3 mb-md-0">
