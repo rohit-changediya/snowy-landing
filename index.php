@@ -13,9 +13,10 @@
     <style>
     body {
     background-color: #000;
-    background-image: url('images/bg.gif');
+    background-image: url('https://ik.imagekit.io/sms76xtwup/bg.gif?updatedAt=1703141155534');
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
     font-family: 'Silkscreen', sans-serif;
     font-weight: 400;
     font-size: 1.25rem;
