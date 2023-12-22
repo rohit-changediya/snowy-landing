@@ -57,7 +57,8 @@
           <img src="images/struppi.png" class="img-fluid">
         </div>
         <div class="col-md-12">
-          <a href="https://t.me/InjSnowy_bot" class="btn btn-light btn-lg mb-2">Airdrop Bot</a>
+          <a href="https://t.me/InjSnowy_bot" class="btn btn-light btn-lg mb-2" target="_blank">Airdrop Bot</a>
+          <a href="https://injsnowy-wp.tiiny.site" class="btn btn-light btn-lg mb-2" target="_blank">Whitepaper</a>
           <p class="mb-4">Join the Fun with Snowy Token on the Injective Network! 🚀❄️</p>
           <h4>Who We Are:</h4>
           <p class="mb-4">Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with Snowy OS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!</p>
@@ -65,32 +66,32 @@
           <div class="row align-items-center justify-content-center mb-4">
             <div class="col-6 col-md-auto mb-3 mb-md-0">
               <div class="d-grid">
-                <a href="https://discord.com/invite/A59wdS5wSf" class="btn btn-outline-light"><i class="bi bi-discord"></i> Discord</a>
+                <a href="https://discord.com/invite/A59wdS5wSf" class="btn btn-outline-light" target="_blank"><i class="bi bi-discord"></i> Discord</a>
               </div>
             </div>
             <div class="col-6 col-md-auto mb-3 mb-md-0">
               <div class="d-grid">
-                <a href="https://t.me/injsnowy" class="btn btn-outline-light"><i class="bi bi-telegram"></i> Telegram</a>
+                <a href="https://t.me/injsnowy" class="btn btn-outline-light" target="_blank"><i class="bi bi-telegram"></i> Telegram</a>
               </div>
             </div>
             <div class="col-6 col-md-1 mb-3 mb-md-0">
               <div class="d-grid">
-                <a href="https://twitter.com/InjSnowy" class="btn btn-outline-light"><i class="bi bi-twitter-x"></i> X</a>
+                <a href="https://twitter.com/InjSnowy" class="btn btn-outline-light" target="_blank"><i class="bi bi-twitter-x"></i> X</a>
               </div>
             </div>
             <div class="col-6 col-md-auto mb-3 mb-md-0">
               <div class="d-grid">
-                <a href="https://medium.com/@injsnowy" class="btn btn-outline-light"><i class="bi bi-medium"></i> Medium</a>
+                <a href="https://medium.com/@injsnowy" class="btn btn-outline-light" target="_blank"><i class="bi bi-medium"></i> Medium</a>
               </div>
             </div>
             <div class="col-auto col-md-auto mb-3 mb-md-0">
               <div class="d-grid">
-                <a href="https://github.com/InjSnowy" class="btn btn-outline-light"><i class="bi bi-github"></i> Github</a>
+                <a href="https://github.com/InjSnowy" class="btn btn-outline-light" target="_blank"><i class="bi bi-github"></i> Github</a>
               </div>
             </div>
           </div>
           <p class="mb-4">E-mail: <a href="mailto:hello@injsnowy.com" class="text-decoration-none text-white">hello@injsnowy.com</a></p>
-          <p class="mb-5"><a href="https://explorer.injective.network/asset/?tokenType=tokenFactory&denom=factory/inj1ml33x7lkxk6x2x95d3alw4h84evlcdz2gnehmk/SNOWY" class="text-decoration-none text-white">Token Contract</a></p>
+          <p class="mb-5"><a href="https://explorer.injective.network/asset/?tokenType=tokenFactory&denom=factory/inj1ml33x7lkxk6x2x95d3alw4h84evlcdz2gnehmk/SNOWY" class="text-decoration-none text-white" target="_blank">Token Contract</a></p>
           <p class="lh-1"><small>Disclaimer: The information provided on this website is for general informational purposes only. It is not intended as financial, legal, or investment advice and should not be construed or relied upon as such. We do not accept any responsibility for any loss which may arise from reliance on information contained on this site. Always consult a professional advisor before making any financial decisions.</small></p>
         </div>
       </div>
