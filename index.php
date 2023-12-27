@@ -32,7 +32,7 @@
     <style>
     body {
     background-color: #000;
-    background-image: url('https://ik.imagekit.io/sms76xtwup/bg.gif?updatedAt=1703141155534');
+    background-image: url('https://snowy.b-cdn.net/bg-new.gif');
     background-size: cover;
     background-position: center;
     font-family: 'Silkscreen', sans-serif;
