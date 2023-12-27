@@ -9,21 +9,21 @@
 <!-- Google / Search Engine Tags -->
 <meta itemprop="name" content="Snowy Token: A Whimsical Mobile Crypto Adventure on the Injective Network!">
 <meta itemprop="description" content="Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with Snowy OS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!">
-<meta itemprop="image" content="https://injsnowy.com/images/airdrop.png">
+<meta itemprop="image" content="https://injsnowy.com/images/airdrop.png?v=1">
 
 <!-- Facebook Meta Tags -->
 <meta property="og:url" content="http://injsnowy.com">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Snowy Token: A Whimsical Mobile Crypto Adventure on the Injective Network!">
 <meta property="og:description" content="Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with Snowy OS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!">
-<meta property="og:image" content="https://injsnowy.com/images/airdrop.png">
+<meta property="og:image" content="https://injsnowy.com/images/airdrop.png?v=1">
 
 <!-- Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Snowy Token: A Whimsical Mobile Crypto Adventure on the Injective Network!">
 <meta name="twitter:description" content="Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with Snowy OS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!">
-<meta name="twitter:image" content="https://injsnowy.com/images/airdrop.png">
-    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+<meta name="twitter:image" content="https://injsnowy.com/images/airdrop.png?v=1">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico?v=1">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap" rel="stylesheet">
@@ -54,7 +54,7 @@
           <h4>The biggest Injective Adventure Airdrop!</h4>
         </div>
         <div class="col-7 col-md-3 py-4">
-          <img src="images/struppi.png" class="img-fluid">
+          <img src="images/struppi.png?v=1" class="img-fluid">
         </div>
         <div class="col-md-12">
           <a href="https://t.me/InjSnowy_bot" class="btn btn-light btn-lg mb-2" target="_blank">Airdrop Bot</a>
