@@ -58,7 +58,9 @@
         </div>
         <div class="col-md-12">
           <a href="https://t.me/InjSnowy_bot" class="btn btn-light btn-lg mb-2" target="_blank">Airdrop Bot</a>
-          <a href="whitepaper.pdf" class="btn btn-light btn-lg mb-2" target="_blank">Whitepaper</a>
+          <a href="whitepaper.pdf" class="btn btn-light btn-lg mb-2" target="_blank">Whitepaper</a> <br>
+          <a href="https://dexscreener.com/injective/inj1ftmtt5mafm2xhf5j32r4exm75d4nmhhxnjekv2" class="btn btn-light btn-lg mb-2" target="_blank">Dexscreener</a> 
+          <a href="https://coinhall.org/injective/inj1ftmtt5mafm2xhf5j32r4exm75d4nmhhxnjekv2" class="btn btn-light btn-lg mb-2" target="_blank">Coinhall</a> 
           <p class="mb-4">Join the Fun with Snowy Token on the Injective Network! 🚀❄️</p>
           <h4>Who We Are:</h4>
           <p class="mb-4">Welcome to the whimsical world of Snowy Token, the latest meme sensation on the Injective Network. Like Tintin's loyal companion, Snowy Token embodies crypto adventure and brings Injective into the Mobile World with Snowy OS and Snowy App Store. Say goodbye to your Solana Phone and join the fun!</p>
